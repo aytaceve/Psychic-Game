@@ -1,4 +1,5 @@
 #Psychic Game
+
 It is a javascript game. You have to find the letter correctly. You are gonna given number which represent how many time you can guess. Every time you guess the guessing number decrease one. If you find the letter correctly which chosen by computer randomly, you will win.
 
 1. Guess what letter I'm thinking of
