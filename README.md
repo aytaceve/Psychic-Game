@@ -11,4 +11,7 @@ It is a javascript game.
 
 # What I Learned
 
-* Used Math Random to generate Random number
+* Learned how game logic works with Javascript.
+* Used Math Random to generate Random number.
+* Created restart() function to restart game every win and lose.
+* Used Event Listener to be able to interact with keyboard.
